@@ -1,0 +1,4 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+transformers
